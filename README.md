@@ -21,7 +21,10 @@ This app was developed from the vision I had of what such an app would look like
 <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/2.png" width="150">
 
 3. Go through their biography, ratings, and past reviews to let you know whether the tutor is a right fit for you. (Qualifications hasn't yet been implemented, so ignore it for now)
-<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/3.png" width="150"> <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/4.png" width="150">
+
+<br />
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/3.png" width="150"> 
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/4.png" width="150">
 
 4. Click 'Request Tutor' then choose your start and end date.
 <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/5.png" width="150">
@@ -37,7 +40,8 @@ This app was developed from the vision I had of what such an app would look like
 You can also go to your profile to edit your information, and the map has a search function. Search "Calculus" and then zoom out for an example of how this works. Enjoy!
 
 <br />
-<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/7.png" width="150"> <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/8.png" width="150">
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/7.png" width="150">
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/8.png" width="150">
 
 
 Note: Some features aren't completed yet, so don't worry if you click on something and it doesn't respond. It's not you, it's me.
