@@ -15,35 +15,29 @@ This app was developed from the vision I had of what such an app would look like
 ### How To Use
 
 1. You will first see the login page. Don't fret! You can just select the login button - this is a dummy login page
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/1.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/1.png" width="150">
+
 2. You will see a map with a few tutors presented on the screen. Click on one of them!
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/2.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/2.png" width="150">
+
 3. Go through their biography, ratings, and past reviews to let you know whether the tutor is a right fit for you. (Qualifications hasn't yet been implemented, so ignore it for now)
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/3.png" width="150">
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/4.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/3.png" width="150">
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/4.png" width="150">
+
 4. Click 'Request Tutor' then choose your start and end date.
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/5.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/5.png" width="150">
+
 5. Return to the main screen, click on the menu button, then 'Pending Requests'
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/6.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/6.png" width="150">
+
 6. You will see that the tutor has accepted your request! You may now begin messaging them to talk about where to meet, what to bring, etc. (this is a dummy messaging screen; not implemented yet)
 
 7. If you change your mind, you can cancel, and start the process over!
 
 
 You can also go to your profile to edit your information, and the map has a search function. Search "Calculus" and then zoom out for an example of how this works. Enjoy!
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/7.png" width="150">
-<img align="right" src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/8.png" width="150">
-<br/>
-<br/>
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/7.png" width="150">
+<img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/8.png" width="150">
+
 
 Note: Some features aren't completed yet, so don't worry if you click on something and it doesn't respond. It's not you, it's me.
