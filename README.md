@@ -34,8 +34,10 @@ This app was developed from the vision I had of what such an app would look like
 
 7. If you change your mind, you can cancel, and start the process over!
 
-
+<br />
 You can also go to your profile to edit your information, and the map has a search function. Search "Calculus" and then zoom out for an example of how this works. Enjoy!
+
+<br />
 <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/7.png" width="150">
 <img src="https://github.com/Martin-Yushko/HelpingHand/blob/master/README_pictures/8.png" width="150">
 
